@@ -1,11 +1,14 @@
 # -SynapseGlobal.tech
-Empowering Enterprises Through Neural Innovation 
+🌟 Empowering Enterprises Through Neural Innovation 
 - [ishita.bahamnia@valion.in]
 - [bahamniaishita@teleperformance.com]
 - [adisidhhitravelsandhospitality.com]
 
-## 🌟 ![Stratosynapse LuxIntel Systems](https://github.com/Ishita95-harvad/synapseglobal.tech-/blob/main/Web_Photo_Editor%20(1).jpg)
+##  ![Stratosynapse LuxIntel Systems](https://github.com/Ishita95-harvad/synapseglobal.tech-/blob/main/Web_Photo_Editor%20(1).jpg)
 A fusion of futuristic AI innovation and luxury-grade business solutions—tailored for global impact across healthcare, finance, retail, and transportation.
+
+***
+---------
 Today
 template for the firebasae to generate a a1 interrnattional client based website /app style premium bussiness class luxury website for me.
 Absolutely! Here's a premium business-class luxury website/app template concept built on Firebase, tailored for A1 international clients. This setup combines sleek design, high-end branding, and scalable tech.
